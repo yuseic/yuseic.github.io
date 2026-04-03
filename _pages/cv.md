@@ -9,56 +9,36 @@ redirect_from:
 
 {% include base_path %}
 
+Summary
+======
+University of Michigan Economics graduate transitioning into **Cloud Security and GRC (Governance, Risk, and Compliance)**. Passionate about applying econometric risk modeling to cybersecurity frameworks to bridge technical vulnerabilities with business strategy. Actively seeking entry-level Cloud Security/GRC roles in the APAC region (VN, JP, SG, MY).
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* **B.A. in Economics**, University of Michigan (Ann Arbor)
+  * Focus: Econometric Risk Modeling & Business Strategy.
 
-Work experience
+Technical Focus & Skills
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* **Cloud Security:** AWS/Azure Fundamentals, IAM, Cloud Compliance.
+* **GRC:** Risk Identification, Compliance Frameworks (NIST, ISO 27001).
+* **Languages:** Fluent Bilingual (Chinese/English).
+* **Core Competencies:** Data Analysis, Risk Quantification, Economic Impact Assessment.
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Professional Interests
+======
+* Automation of Security Audits via Python.
+* Quantifying technical risks into business-critical financial impacts.
+* Cross-border security collaboration in the APAC market.
 
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Target Locations & Companies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* **Vietnam:** NAB, Bosch, Axon, FPT, Big 4 (HCMC/Hanoi).
+* **Singapore:** Grab, Sea Group (Shopee), GovTech, CSA, Global Banks (DBS, OCBC).
+* **Japan:** Rakuten, Mercari, Money Forward, Woven by Toyota, Big 4 (Tokyo).
+* **Malaysia:** Standard Chartered (Global Hub), Dell, Petronas, Cyberjaya-based MNCs.
 
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Active participant in global cybersecurity and cloud governance communities.
+* Bilingual liaison for cross-border technical and business projects.
