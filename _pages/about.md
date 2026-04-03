@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a University of Michigan Economics graduate transitioning into **Cloud Security and GRC (Governance, Risk, and Compliance)**. My unique background allows me to bridge the gap between technical vulnerabilities and their real-world economic impact on business operations.
+I am **Yu C.**, a University of Michigan Economics graduate transitioning into **Cloud Security and GRC (Governance, Risk, and Compliance)**. My unique background allows me to bridge the gap between technical vulnerabilities and their real-world economic impact on business operations.
 
 Currently based in the APAC region, I am focusing on entry-level Cloud Security Engineer and GRC Consultant roles at MNCs and Big 4 firms across Vietnam, Japan, Singapore, and Malaysia.
 
