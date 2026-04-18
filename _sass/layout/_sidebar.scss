@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  overflow-x: hidden;
 
   @media (orientation: portrait) {
     margin-top: 1em;
@@ -306,7 +307,7 @@
   }
 
   li {
-    white-space: nowrap;
+    white-space: normal;
   }
 
   a {
