@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yu C. | Cloud Security & OSINT"
+title                    : "Yu C. | Security Data Architecture & Risk"
 title_separator          : "-"
 name                     : &name "Yu C."
-description              : &description "University of Michigan Economics Graduate transitioning to Cloud Security & OSINT. Focused on geopolitical data and cybersecurity in the APAC region."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "U-M Economics graduate specializing in Security Data Architecture, Risk Quantification, and Cloud GRC. Bridging technical security with business-driven data insights."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuseic.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yu C."
   pronouns         : # example: "she/her"  
-  bio              : "Cloud Security & OSINT | U-M"
+  bio              : "Security Data Architect | Risk Quantification | U-M Economics"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL
@@ -53,7 +53,7 @@ author:
   dribbble         : # Username
   github           : "yuseic"
   kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
+  stackoverflow    : # User number or user number and name (i.i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username

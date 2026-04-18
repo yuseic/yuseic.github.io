@@ -20,7 +20,7 @@ Education
 
 Technical Focus & Skills
 ======
-* **Cloud Security:** AWS/Azure Fundamentals, IAM, Cloud Compliance.
+* **Cloud Security:** Azure Fundamentals, IAM, Cloud Compliance.
 * **GRC:** Risk Identification, Compliance Frameworks (NIST, ISO 27001).
 * **Languages:** Fluent Bilingual (Chinese/English).
 * **Core Competencies:** Data Analysis, Risk Quantification, Economic Impact Assessment.
