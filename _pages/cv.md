@@ -11,25 +11,26 @@ redirect_from:
 
 Summary
 ======
-University of Michigan Economics graduate transitioning into **Cloud Security and GRC (Governance, Risk, and Compliance)**. Passionate about applying econometric risk modeling to cybersecurity frameworks to bridge technical vulnerabilities with business strategy. Actively seeking entry-level Cloud Security/GRC roles in the APAC region (VN, JP, SG, MY).
+University of Michigan Economics graduate specializing in **Security Data Engineering** and **Data Architecture**. Expert at bridging the gap between high-level econometric risk modeling and technical security implementation. I design automated data pipelines that not only secure infrastructure but also quantify technical vulnerabilities into actionable business risks. Actively seeking **Data Engineer**, **Security Data Engineer**, or **Data Analyst** roles within the APAC region (SG, JP, VN, MY).
 
 Education
 ======
 * **B.A. in Economics**, University of Michigan (Ann Arbor)
-  * Focus: Econometric Risk Modeling & Business Strategy.
+  * Specialization: Data-Driven Security Modeling & Econometric Risk Assessment.
 
 Technical Focus & Skills
 ======
-* **Cloud Security:** Azure Fundamentals, IAM, Cloud Compliance.
-* **GRC:** Risk Identification, Compliance Frameworks (NIST, ISO 27001).
-* **Languages:** Fluent Bilingual (Chinese/English).
-* **Core Competencies:** Data Analysis, Risk Quantification, Economic Impact Assessment.
+* **Data Engineering:** ETL Pipeline Development (Python, Power Automate), Relational Data Modeling, SQL, Data Governance.
+* **Security & GRC:** Security Log Analysis, Risk Quantification, Compliance Frameworks (NIST, ISO 27001, SOC2), Cloud Security (Azure).
+* **Tools & Platforms:** Power BI, Terraform, Python (Pandas/NumPy), Microsoft Power Platform.
+* **Languages:** Native Bilingual (Mandarin Chinese / English).
+* **Core Competencies:** Risk-to-Value Modeling, Automated Governance, System Architecture.
 
 Professional Interests
 ======
-* Automation of Security Audits via Python.
-* Quantifying technical risks into business-critical financial impacts.
-* Cross-border security collaboration in the APAC market.
+* Building "Self-Healing" security data pipelines.
+* Quantifying technical debt and security risks into financial ROI for executive leadership.
+* Developing cross-regional data infrastructure in the APAC market.
 
 Target Locations & Companies
 ======

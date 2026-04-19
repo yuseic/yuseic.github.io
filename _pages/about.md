@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yu C.**, a University of Michigan Economics graduate bridging the gap between **Cybersecurity Architecture, Data Engineering, and Business Risk**. My core value lies in "linking" high-level economic insights with deep technical implementation.
+I am **Yu C.**, a University of Michigan Economics graduate bridging the gap between **Security Data Engineering, Cloud Architecture, and Business Risk**. My core value lies in "linking" high-level economic insights with deep technical implementation.
 
-I specialize in **Security Data Architecture**—designing systems that not only protect data but also quantify technical vulnerabilities into clear, actionable business risks.
+I specialize in **Security Data Architecture**—designing automated pipelines that not only protect data but also quantify technical vulnerabilities into clear, actionable business risks.
 
 The "Linker" Persona
 ======
