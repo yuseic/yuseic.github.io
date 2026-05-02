@@ -24,7 +24,7 @@ This project is not about "one-click generation." It is a rigorous exercise in *
 ![The Melancholy Recital](/images/musubi/musubi-2.png)
 **Figure 2: The Melancholy Recital.** A surrealist interpretation of a dream where technology and nature merge—a TV-headed pianist performing under a bleeding celestial flower. This frame tests the AI's ability to handle complex metaphors.
 
-![The Sentinel](/images/musubi/musibi-1.png)
+![The Sentinel](/images/musubi/musubi-1.png)
 **Figure 3: The Sentinel.** Visualizing the overwhelming feeling of a "colossal presence" looming over a silent city, a common motif in the subject's childhood nightmares.
 
 ![The Echo at the Station](/images/musubi/musubi-4.png)
