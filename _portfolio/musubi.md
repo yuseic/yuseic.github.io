@@ -18,16 +18,16 @@ This project is not about "one-click generation." It is a rigorous exercise in *
 ### Visual Gallery: The MUSUBI Dream Series
 *The following frames are part of the pilot study titled "The Geometry of Nostalgia," where we reconstructed recurring dream fragments through iterative AI orchestration.*
 
-![The Urban Phoenix](/images/musubi/musubi-3.png)
+![The Urban Phoenix](/images/musubi/musubi-3.png){:width="80%" .align-center}
 **Figure 1: The Urban Phoenix.** Reconstructing a dream of a secondary school student witnessing a celestial rebirth over a decaying urban landscape. The focus was on capturing the specific "sunset-neon" color palette of the late 90s.
 
-![The Melancholy Recital](/images/musubi/musubi-2.png)
+![The Melancholy Recital](/images/musubi/musubi-2.png){:width="80%" .align-center}
 **Figure 2: The Melancholy Recital.** A surrealist interpretation of a dream where technology and nature merge—a TV-headed pianist performing under a bleeding celestial flower. This frame tests the AI's ability to handle complex metaphors.
 
-![The Sentinel](/images/musubi/musubi-1.png)
+![The Sentinel](/images/musubi/musubi-1.png){:width="80%" .align-center}
 **Figure 3: The Sentinel.** Visualizing the overwhelming feeling of a "colossal presence" looming over a silent city, a common motif in the subject's childhood nightmares.
 
-![The Echo at the Station](/images/musubi/musubi-4.png)
+![The Echo at the Station](/images/musubi/musubi-4.png){:width="80%" .align-center}
 **Figure 4: The Echo at the Station.** Capturing the isolation of a glowing billboard in a rainy, forgotten terminal—reconstructing the texture of "wet asphalt and light leaks" through precise prompt engineering.
 
 ### The Future: From Art to Asset
