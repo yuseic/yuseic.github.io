@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yu C. | Data Architecture & AI Orchestration"
+title                    : "Yu C. | Data Architecture & Creative Technology"
 title_separator          : "-"
 name                     : &name "Yu C."
 description              : &description "U-M Economics graduate specializing in Data Architecture, AI Orchestration, and Digital Heritage. Bridging complex data structures with creative media and human-centric insights."   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -360,3 +360,4 @@ compress_html:
   ignore:
     envs: development
 s: development
+
