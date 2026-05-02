@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-University of Michigan Economics graduate specializing in **Security Data Engineering** and **Data Architecture**. Expert at bridging the gap between high-level econometric risk modeling and technical security implementation. I design automated data pipelines that not only secure infrastructure but also quantify technical vulnerabilities into actionable business risks. Actively seeking **Data Engineer**, **Security Data Engineer**, or **Data Analyst** roles within the APAC region (SG, JP, VN, MY).
+University of Michigan Economics graduate specializing in **Data Engineering**, **Creative Technology**, and **AI Orchestration**. I architect systems that bridge the gap between rigorous economic logic and expressive digital media. My work focuses on **Project MUSUBI**, a secure, AI-interactable ecosystem for digital heritage, where I integrate advanced data pipelines with generative AI to capture "subjective truths." I am a "Bridge-Builder" dedicated to creating unshakeable digital trust while enabling profound human expression.
 
 Education
 ======
@@ -20,26 +20,20 @@ Education
 
 Technical Focus & Skills
 ======
-* **Data Engineering:** ETL Pipeline Development (Python, Power Automate), Relational Data Modeling, SQL, Data Governance.
-* **Security & GRC:** Security Log Analysis, Risk Quantification, Compliance Frameworks (NIST, ISO 27001, SOC2), Cloud Security (Azure).
-* **Tools & Platforms:** Power BI, Terraform, Python (Pandas/NumPy), Microsoft Power Platform.
+* **AI Orchestration:** Integrating LLMs, Generative Vision (Midjourney/Stable Diffusion), and Prompt Engineering into cohesive automated workflows.
+* **Data Engineering:** ETL Pipeline Development (Python, SQL), Relational Data Modeling, Knowledge Graph construction, and Data Governance.
+* **Security & Infrastructure:** Automated Cloud Governance (CloudGuard), Identity Integrity, and Resilient Architecture for decentralized assets.
+* **Tools & Platforms:** Python (Pandas/NumPy), Terraform, Microsoft Power Platform, Midjourney, Blockchain-based royalty modeling.
 * **Languages:** Native Bilingual (Mandarin Chinese / English).
-* **Core Competencies:** Risk-to-Value Modeling, Automated Governance, System Architecture.
 
 Professional Interests
 ======
-* Building "Self-Healing" security data pipelines.
-* Quantifying technical debt and security risks into financial ROI for executive leadership.
-* Developing cross-regional data infrastructure in the APAC market.
-
-Target Locations & Companies
-======
-* **Vietnam:** NAB, Bosch, Axon, FPT, Big 4 (HCMC/Hanoi).
-* **Singapore:** Grab, Sea Group (Shopee), GovTech, CSA, Global Banks (DBS, OCBC).
-* **Japan:** Rakuten, Mercari, Money Forward, Woven by Toyota, Big 4 (Tokyo).
-* **Malaysia:** Standard Chartered (Global Hub), Dell, Petronas, Cyberjaya-based MNCs.
+* **Strategic Intelligence Networks (Advanced Data Engineering):** Mastering high-frequency scraping and parsing of non-traditional data (geopolitical shifts, social sentiment) to build dynamic webs of systemic risk.
+* **Decision Simulation (Game Theory & AI):** Utilizing Multi-Agent Modeling (ABM) and Reinforcement Learning to simulate market reactions and find optimal strategies in complex business environments.
+* **Resilient & Sovereign Infrastructure (Specialized Cloud):** Designing edge intelligence and sovereign cloud architectures to navigate global jurisdictions and ensure data compliance in a fragmented digital world.
+* **Digital Heritage & Wisdom Capital:** Developing the economic and technical standards for the preservation of human memory as inheritable digital assets.
 
 Service and leadership
 ======
-* Active participant in global cybersecurity and cloud governance communities.
-* Bilingual liaison for cross-border technical and business projects.
+* **Creative Society Advocate:** Exploring the intersection of policy, technology, and media through the **CiP (Contents Innovation Program)** framework.
+* **Multidisciplinary Liaison:** Leading cross-border projects that require a synthesis of technical engineering, economic analysis, and creative design.
