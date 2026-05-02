@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yu C. | Security Data Architecture & Risk"
+title                    : "Yu C. | Data Architecture & AI Orchestration"
 title_separator          : "-"
 name                     : &name "Yu C."
-description              : &description "U-M Economics graduate specializing in Security Data Architecture, Risk Quantification, and Cloud GRC. Bridging technical security with business-driven data insights."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "U-M Economics graduate specializing in Data Architecture, AI Orchestration, and Digital Heritage. Bridging complex data structures with creative media and human-centric insights."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuseic.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yu C."
   pronouns         : # example: "she/her"  
-  bio              : "Security Data Engineer | Data Architecture | Risk Quantification"
+  bio              : "Data Engineer | Data Architecture | AI Orchestration"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL
@@ -359,3 +359,4 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+s: development
