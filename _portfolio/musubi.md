@@ -4,6 +4,10 @@ excerpt: "A generative media pilot (The DreamX Factory) using Midjourney to tran
 collection: portfolio
 ---
 
+<video autoplay loop muted playsinline id="bg-video" style="position: fixed; right: 0; bottom: 0; min-width: 100%; min-height: 100%; z-index: -1; opacity: 0.12; pointer-events: none; filter: contrast(110%) brightness(90%);">
+  <source src="/images/musubi/musubi-5.mp4" type="video/mp4">
+</video>
+
 **Objective:** To demonstrate the power of AI as a "Vessel for the Soul"—transforming intangible, subjective memories into tangible, high-fidelity media that can be preserved for generations.
 
 ### The "Media" Hook: Emotional Resonance
