@@ -5,7 +5,7 @@ collection: portfolio
 ---
 
 <video autoplay loop muted playsinline id="bg-video" style="position: fixed; top: 0; left: 0; width: 100vw; height: 100vh; object-fit: cover; object-position: center; z-index: -1; opacity: 0.30; pointer-events: none; filter: brightness(110%);">
-  <source src="/images/musubi/musubi-5.mp4" type="video/mp4">
+  <source src="/images/musubi/musubi-6.mp4" type="video/mp4">
 </video>
 
 **Objective:** To demonstrate the power of AI as a "Vessel for the Soul"—transforming intangible, subjective memories into tangible, high-fidelity media that can be preserved for generations.
@@ -22,16 +22,16 @@ This project is not about "one-click generation." It is a rigorous exercise in *
 ### Visual Gallery: The MUSUBI Dream Series
 *The following frames are part of the pilot study titled "The Geometry of Nostalgia," where we reconstructed recurring dream fragments through iterative AI orchestration.*
 
-![The Urban Phoenix](/images/musubi/musubi-3.png){:width="80%" .align-center}
+![The Urban Phoenix](/images/musubi/musubi-3.png){:width="60%" .align-center}
 **Figure 1: The Urban Phoenix.** Reconstructing a dream of a secondary school student witnessing a celestial rebirth over a decaying urban landscape. The focus was on capturing the specific "sunset-neon" color palette of the late 90s.
 
-![The Melancholy Recital](/images/musubi/musubi-2.png){:width="80%" .align-center}
+![The Melancholy Recital](/images/musubi/musubi-2.png){:width="60%" .align-center}
 **Figure 2: The Melancholy Recital.** A surrealist interpretation of a dream where technology and nature merge—a TV-headed pianist performing under a bleeding celestial flower. This frame tests the AI's ability to handle complex metaphors.
 
-![The Sentinel](/images/musubi/musubi-1.png){:width="80%" .align-center}
+![The Sentinel](/images/musubi/musubi-1.png){:width="60%" .align-center}
 **Figure 3: The Sentinel.** Visualizing the overwhelming feeling of a "colossal presence" looming over a silent city, a common motif in the subject's childhood nightmares.
 
-![The Echo at the Station](/images/musubi/musubi-4.png){:width="80%" .align-center}
+![The Echo at the Station](/images/musubi/musubi-4.png){:width="60%" .align-center}
 **Figure 4: The Echo at the Station.** Capturing the isolation of a glowing billboard in a rainy, forgotten terminal—reconstructing the texture of "wet asphalt and light leaks" through precise prompt engineering.
 
 ### The Future: From Art to Asset
