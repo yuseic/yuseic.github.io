@@ -1,10 +1,10 @@
 ---
-title: "Adidas: Automated Data Supply Chain Architecture"
-excerpt: "Architecting a real-time data pipeline for Adidas's global supply chain, transforming manual logistics into automated insights."
+title: "Adidas (Internship): Logistics Data Engineering & Supply Chain Architecture"
+excerpt: "Architecting a real-time data pipeline for Adidas's global supply chain, transforming manual logistics into automated insights as a Logistics Data Engineer."
 collection: portfolio
 ---
 
-**Objective:** Designed and implemented a centralized data pipeline to automate the integration of global supplier manufacturing data, replacing manual Excel-based workflows with a real-time monitoring solution.
+**Objective:** During my tenure as a **Logistics Data Engineer (Intern)**, I designed and implemented a centralized data pipeline to automate the integration of global supplier manufacturing data, replacing manual Excel-based workflows with a real-time monitoring solution.
 
 ### The Problem: Manual Latency & Human Error
 Prior to implementation, suppliers submitted data via weekly emails, requiring 30–60 minutes of manual cleaning per cycle. This fragmented process led to performance monitoring gaps and logistics delays.
