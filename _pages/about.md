@@ -1,15 +1,15 @@
 ---
 permalink: /
-title: "Security Data & Risk Architect"
+title: "Creative Technologist & AI Orchestrator"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Yu C.**, a University of Michigan Economics graduate bridging the gap between **Security Data Engineering, Cloud Architecture, and Business Risk**. My core value lies in "linking" high-level economic insights with deep technical implementation.
+I am **Yu C.**, a University of Michigan Economics graduate bridging the gap between **Creative Technology, AI Orchestration, and Business Risk**. My core value lies in "linking" high-level economic insights with deep technical implementation.
 
-I specialize in **Security Data Architecture**—designing automated pipelines that not only protect data but also quantify technical vulnerabilities into clear, actionable business risks.
+I specialize in **Creative Systems Architecture**—designing automated workflows that not only process data but also bridge the gap between technical complexity and expressive media.
 
 The "Linker" Persona
 ======
