@@ -22,7 +22,7 @@ Technical Focus & Skills
 ======
 * **AI Orchestration:** Integrating LLMs, Generative Vision (Midjourney/Stable Diffusion), and Prompt Engineering into cohesive automated workflows.
 * **Data & Systems Architecture:** ETL Pipeline Development (Python, SQL), Relational Data Modeling, Knowledge Graph construction, and Data Governance.
-* **Security & Infrastructure:** Automated Cloud Governance (CloudGuard), Identity Integrity, and Resilient Architecture for decentralized assets.
+* **Security & Infrastructure:** Automated Cloud Governance, Identity Integrity, and Resilient Architecture for decentralized assets.
 * **Tools & Platforms:** Python (Pandas/NumPy), Terraform, Microsoft Power Platform, Midjourney, Blockchain-based royalty modeling.
 * **Languages:** Native Bilingual (Mandarin Chinese / English).
 
