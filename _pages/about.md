@@ -20,7 +20,7 @@ In a digital landscape often fragmented between tech and business, I act as the 
 
 Core Expertise
 ======
-*   **Risk Quantification:** Applying economic modeling to security logs to prioritize remediation based on ROI and business impact.
+*   **System Architecture & Product Realization:** Adept at translating abstract, creative blueprints into production-ready systems. Leveraging AI-assisted development, I excel at transforming imaginative concepts into highly engaging and market-ready products.
 *   **Cloud Data Architecture:** Designing automated governance pipelines using Python, Terraform, and Power Platform to ensure real-time compliance in cloud environments.
 *   **Security GRC:** Bridging NIST, ISO 27001, and SOC2 frameworks with modern cloud infrastructure and data privacy laws.
 
