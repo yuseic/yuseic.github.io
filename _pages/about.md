@@ -27,7 +27,7 @@ Core Expertise
 Education
 ======
 *   **B.A. in Economics**, University of Michigan (Ann Arbor)
-*   Specialization in Data-Driven Security Modeling and Automated Governance.
+
 
 Contact
 ======
