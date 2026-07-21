@@ -280,17 +280,7 @@ This project is not about "one-click generation." It is a rigorous exercise in *
   <!-- Track 1: Scrolls Left -->
   <div class="musubi-marquee-track scroll-left">
     <div class="musubi-marquee-group">
-      <!-- Card 1 -->
-      <div class="musubi-card">
-        <div class="musubi-media-container">
-          <img src="/images/musubi/musubi-3.png" alt="The Urban Phoenix">
-        </div>
-        <div class="musubi-info">
-          <h4 class="musubi-title">The Urban Phoenix</h4>
-          <p class="musubi-desc">Reconstructing a childhood dream of witnessing a celestial rebirth over a decaying 90s urban compound. Captured the specific "sunset-neon" color palette of late 90s film stock.</p>
-          <span class="musubi-tag">Aesthetic: Sunset-Neon / 90s</span>
-        </div>
-      </div>
+
       <!-- Card 2 -->
       <div class="musubi-card">
         <div class="musubi-media-container">
@@ -383,17 +373,7 @@ This project is not about "one-click generation." It is a rigorous exercise in *
     
     <!-- Cloned Group for Seamless Loop -->
     <div class="musubi-marquee-group" aria-hidden="true">
-      <!-- Card 1 -->
-      <div class="musubi-card">
-        <div class="musubi-media-container">
-          <img src="/images/musubi/musubi-3.png" alt="The Urban Phoenix">
-        </div>
-        <div class="musubi-info">
-          <h4 class="musubi-title">The Urban Phoenix</h4>
-          <p class="musubi-desc">Reconstructing a childhood dream of witnessing a celestial rebirth over a decaying 90s urban compound. Captured the specific "sunset-neon" color palette of late 90s film stock.</p>
-          <span class="musubi-tag">Aesthetic: Sunset-Neon / 90s</span>
-        </div>
-      </div>
+
       <!-- Card 2 -->
       <div class="musubi-card">
         <div class="musubi-media-container">
