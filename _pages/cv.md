@@ -30,7 +30,7 @@ Professional Interests
 * **Network & Cloud Security:** Deeply interested in zero-trust architectures, cloud infrastructure security hardening, network vulnerability defense, and resilient security engineering.
 * **Indie Hacking & Product Craftsmanship:** Passionate about 0-to-1 independent product development, rapidly building user-centric full-stack digital products, and shipping software from concept to live deployment.
 * **Strategic Intelligence Networks:** Mastering high-frequency scraping and parsing of non-traditional data (geopolitical shifts, social sentiment) to build dynamic webs of systemic risk.
-* **Decision Simulation (Game Theory & AI):** Utilizing Multi-Agent Modeling (ABM) and Reinforcement Learning to simulate market reactions and find optimal strategies in complex business environments.
+* **Product Packaging, Aesthetics & User Psychology:** Obsessed with transforming raw concepts into highly magnetic, traffic-generating digital products, embedding uncompromising visual aesthetics into software design, and mastering user psychology to drive viral acquisition and long-term engagement.
 * **Resilient & Sovereign Infrastructure:** Designing edge intelligence and sovereign cloud architectures to navigate global jurisdictions and ensure data compliance in a fragmented digital world.
 * **Digital Heritage & Wisdom Capital:** Developing the economic and technical standards for the preservation of human memory as inheritable digital assets.
 
