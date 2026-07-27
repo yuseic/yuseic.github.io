@@ -22,11 +22,7 @@ The central visual engine calculates the daily Heavenly Stems and Earthly Branch
 *Figure 1: Cyber-Electronic neon palette driven by Five Elements (Wood: Emerald Green `#12c76a`, Fire: Vermilion `#ff3b30`, Earth: Golden Amber `#ffb020`, Metal: Cyan `#2fd0e6`, Water: Royal Blue `#2979ff`) with procedural distance fields (`makeBlobField`) and Five Elements generative/overcoming relationships controlling double-color domain boundaries and particle flickering.*
 
 ### 2. Mobile Digital Share Card (移动端艺术分享卡)
-Users can export a high-resolution, seed-based share card containing deterministic daily mosaic artwork, glowing neon GanZhi glyphs, current Shichen coordinates, and non-predictive poetic reflection.
-
-![KYOU Mobile Share Card](/images/kyou/share_card.png)
-
-*Figure 2: Deterministic, seed-based share card generator (`drawShareCard`) integrated with native Web Share API for frictionless mobile sharing.*
+Users can export a high-resolution, seed-based share card containing deterministic daily mosaic artwork, glowing neon GanZhi glyphs, current Shichen coordinates, and non-predictive poetic reflection, integrated with native Web Share API (`drawShareCard`) for frictionless mobile sharing.
 
 ---
 
