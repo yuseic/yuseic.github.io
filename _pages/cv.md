@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -16,7 +16,6 @@ University of Michigan Economics graduate specializing in **Creative Technology*
 Education
 ======
 * **B.A. in Economics**, University of Michigan (Ann Arbor)
-  * Specialization: Data-Driven Modeling & Econometric Risk Assessment.
 
 Technical Focus & Skills
 ======
@@ -28,12 +27,15 @@ Technical Focus & Skills
 
 Professional Interests
 ======
+* **Network & Cloud Security:** Deeply interested in zero-trust architectures, cloud infrastructure security hardening, network vulnerability defense, and resilient security engineering.
+* **Indie Hacking & Product Craftsmanship:** Passionate about 0-to-1 independent product development, rapidly building user-centric full-stack digital products, and shipping software from concept to live deployment.
 * **Strategic Intelligence Networks:** Mastering high-frequency scraping and parsing of non-traditional data (geopolitical shifts, social sentiment) to build dynamic webs of systemic risk.
 * **Decision Simulation (Game Theory & AI):** Utilizing Multi-Agent Modeling (ABM) and Reinforcement Learning to simulate market reactions and find optimal strategies in complex business environments.
-* **Resilient & Sovereign Infrastructure (Specialized Cloud):** Designing edge intelligence and sovereign cloud architectures to navigate global jurisdictions and ensure data compliance in a fragmented digital world.
+* **Resilient & Sovereign Infrastructure:** Designing edge intelligence and sovereign cloud architectures to navigate global jurisdictions and ensure data compliance in a fragmented digital world.
 * **Digital Heritage & Wisdom Capital:** Developing the economic and technical standards for the preservation of human memory as inheritable digital assets.
 
 Service and leadership
 ======
 * **Creative Society Advocate:** Exploring the intersection of policy, technology, and media through the **CiP (Contents Innovation Program)** framework.
 * **Multidisciplinary Liaison:** Leading cross-border projects that require a synthesis of technical engineering, economic analysis, and creative design.
+
