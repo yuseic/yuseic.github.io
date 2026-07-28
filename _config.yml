@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yu C."
   pronouns         : # example: "she/her"  
-  bio              : "AI Product Engineer"
+  bio              : "AI Product Engineer | Design Engineer"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username

@@ -2,6 +2,7 @@
 title: "Tomo (山海图鉴): Single-Player Personal Relationship Atlas iOS App"
 excerpt: "A private, single-player native iOS app (SwiftUI + SwiftData + Supabase Edge Functions) that records relationships into a private 'Bazi Universe' mineral pigment atlas (山海图鉴 · 矿彩版). Combining privacy-first architecture, traditional calendar algorithms, and Chinese mineral pigment aesthetics."
 collection: portfolio
+order: 2
 header:
   teaser: "tomo/teaser.png"
 ---

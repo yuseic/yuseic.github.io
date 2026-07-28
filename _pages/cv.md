@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-**AI Product Engineer** specializing in **0-to-1 Product Engineering** and **AI Orchestration**. I design and ship generative digital products myself — **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app). I'm also actively building hands-on cloud security skills — not a claimed expertise yet, but the direction I'm deliberately building toward.
+**AI Product Engineer | Design Engineer** specializing in **0-to-1 Product Engineering** and **AI Orchestration**. I design and ship generative digital products myself — **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app). I'm also actively building hands-on cloud security skills — not a claimed expertise yet, but the direction I'm deliberately building toward.
 
 Education
 ======

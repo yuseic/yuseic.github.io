@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AI Product Engineer"
+title: "AI Product Engineer | Design Engineer"
 author_profile: true
 redirect_from: 
   - /about/
