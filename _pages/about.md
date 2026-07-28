@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "Creative Technologist & Product Builder"
+title: "AI Product Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Yu**, a Creative Technologist bridging the gap between Media Technology, AI Workflow, and Business Impact. I take vague, undefined ideas and turns them into fully realized, highly compelling products.
+I am **Yu**, an AI Product Engineer. I take vague, undefined ideas and turn them into fully realized, highly compelling products — designed, built, and shipped by me, end-to-end.
 
 
 The "Linker" Persona

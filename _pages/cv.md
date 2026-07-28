@@ -11,7 +11,7 @@ redirect_from:
 
 Summary
 ======
-Creative Technologist and Product Builder specializing in **0-to-1 Product Engineering** and **AI Orchestration**. I design and ship generative digital products myself — **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app). I'm also actively building hands-on cloud security skills through **CloudGuard**, a self-directed, in-progress project — not a claimed expertise yet, but the direction I'm deliberately building toward.
+**AI Product Engineer** specializing in **0-to-1 Product Engineering** and **AI Orchestration**. I design and ship generative digital products myself — **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app). I'm also actively building hands-on cloud security skills — not a claimed expertise yet, but the direction I'm deliberately building toward.
 
 Education
 ======
@@ -27,7 +27,7 @@ Technical Focus & Skills
 
 Currently Learning
 ======
-* **Cloud Security Engineering:** Actively building hands-on skills in cloud posture auditing (IAM/S3/RDS misconfigurations), automated governance, and compliance frameworks (NIST, ISO 27001, SOC 2) through **CloudGuard**, a self-directed, in-progress project — not yet a professional practice.
+* **Cloud Security Engineering:** Actively building hands-on skills in cloud posture auditing (IAM/S3/RDS misconfigurations), automated governance, and compliance frameworks (NIST, ISO 27001, SOC 2) through **CloudGuard**, a self-directed, in-progress project.
 
 Professional Interests
 ======
