@@ -1,34 +1,37 @@
 ---
 permalink: /
-title: "Creative Technologist & AI Orchestrator"
+title: "Creative Technologist & Product Builder"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am **Yu C.**, a University of Michigan Economics graduate bridging the gap between **Creative Technology, AI Orchestration, and Business Risk**. My core value lies in "linking" high-level economic insights with deep technical implementation.
+I am **Yu**, a Creative Technologist bridging the gap between Media Technology, AI Workflow, and Business Impact. I take vague, undefined ideas and turns them into fully realized, highly compelling products.
 
-I specialize in **Creative Systems Architecture**—designing automated workflows that not only process data but also bridge the gap between technical complexity and expressive media.
 
 The "Linker" Persona
 ======
-In a digital landscape often fragmented between tech and business, I act as the **Strategic Hub**:
-*   **Technical x Business:** Translating cloud vulnerabilities into "Risk Dollar Values" for executive decision-making.
-*   **Data x Security:** Engineering automated pipelines that integrate security audits directly into business data flows.
-*   **Cross-Regional Hub:** Leveraging bilingual fluency (EN/CN) to lead security and data initiatives across the APAC region (Singapore, Japan, Vietnam, Malaysia).
+In a digital landscape often fragmented between engineering and product, I act as the connective layer:
+*   **Design x Engineering:** Building generative, high-craft interfaces myself — from a custom WebGL/Canvas particle engine (*KYOU*) to a native iOS app (*Tomo*) — not just prototyping them.
+*   **Idea x Execution:** Taking something abstract and undefined and shipping it as a real, working product, not a deck.
+*   **Cross-Regional Hub:** Leveraging bilingual fluency (EN/CN) to lead product initiatives across the APAC region.
 
 Core Expertise
 ======
-*   **System Architecture & Product Realization:** Adept at translating abstract, creative blueprints into production-ready systems. Leveraging AI-assisted development, I excel at transforming imaginative concepts into highly engaging and market-ready products.
-*   **Cloud Data Architecture:** Designing automated governance pipelines using Python, Terraform, and Power Platform to ensure real-time compliance in cloud environments.
-*   **Security GRC:** Bridging NIST, ISO 27001, and SOC2 frameworks with modern cloud infrastructure and data privacy laws.
+*   **Idea-to-Product Realization:** Taking an abstract, undefined idea and turning it into a fully realized, highly compelling product
+*   **0-to-1 Product Engineering:** End-to-end ownership of generative web (Canvas/WebGL PWA) and native iOS (SwiftUI/SwiftData) products, with AI-assisted pair programming (Claude/Cursor) as the primary build method.
+*   **AI Orchestration & Generative Media:** Integrating LLMs, generative vision (Midjourney, Runway), and prompt engineering into disciplined, repeatable creative pipelines.
+
+Currently Upskilling
+======
+*   **Security:** Building hands-on cloud security fundamentals — not yet a professional practice, but where I'm deliberately upskilling.
 
 Education
 ======
-*   **B.A. in Economics**, University of Michigan (Ann Arbor)
+*   **B.A.**, University of Michigan (Ann Arbor)
 
 
 Contact
 ======
-I am open to roles that require a mix of technical rigor and strategic communication. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.
+I am open to roles that value real product-building ability first. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.

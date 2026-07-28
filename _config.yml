@@ -9,10 +9,10 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Yu C. | Creative Technologist & AI Orchestrator"
+title                    : "Yu C. | Creative Technologist & Product Builder"
 title_separator          : "-"
 name                     : &name "Yu C."
-description              : &description "U-M Economics graduate specializing in Creative Technology, AI Orchestration, and Digital Heritage. Bridging complex data structures with creative media and human-centric insights."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "Creative Technologist and Product Builder. I take vague, undefined ideas and turn them into fully realized, highly compelling products — designed, built, and shipped end-to-end. Currently building hands-on cloud security skills through the CloudGuard project."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://yuseic.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -26,7 +26,7 @@ author:
   avatar           : "profile.png"
   name             : "Yu C."
   pronouns         : # example: "she/her"  
-  bio              : "Creative Technologist | AI Orchestrator"
+  bio              : "0-to-1 Product Builder (learning Cloud Security)"
   location         : "APAC (VN, JP, SG, MY)"
   employer         : "University of Michigan Alumni"
   uri              : # URL

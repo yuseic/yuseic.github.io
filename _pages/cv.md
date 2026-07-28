@@ -11,31 +11,32 @@ redirect_from:
 
 Summary
 ======
-University of Michigan Economics graduate specializing in **Creative Technology** and **AI Orchestration**. I architect systems that bridge the gap between rigorous economic logic and expressive digital media. My work focuses on **Project MUSUBI**, a secure, AI-interactable ecosystem for digital heritage, where I integrate advanced data pipelines with generative AI to capture "subjective truths." I am a "Bridge-Builder" dedicated to creating unshakeable digital trust while enabling profound human expression.
+Creative Technologist and Product Builder specializing in **0-to-1 Product Engineering** and **AI Orchestration**. I design and ship generative digital products myself — **Project MUSUBI** (AI-driven memory reconstruction), **KYOU** (generative-art PWA), **Tomo** (native iOS app). I'm also actively building hands-on cloud security skills through **CloudGuard**, a self-directed, in-progress project — not a claimed expertise yet, but the direction I'm deliberately building toward.
 
 Education
 ======
-* **B.A. in Economics**, University of Michigan (Ann Arbor)
+* **B.A.**, University of Michigan (Ann Arbor)
 
 Technical Focus & Skills
 ======
-* **AI Orchestration:** Integrating LLMs, Generative Vision (Midjourney/Stable Diffusion), and Prompt Engineering into cohesive automated workflows.
-* **Data & Systems Architecture:** ETL Pipeline Development (Python, SQL), Relational Data Modeling, Knowledge Graph construction, and Data Governance.
-* **Security & Infrastructure:** Automated Cloud Governance, Identity Integrity, and Resilient Architecture for decentralized assets.
-* **Tools & Platforms:** Python (Pandas/NumPy), Terraform, Microsoft Power Platform, Midjourney, Blockchain-based royalty modeling.
+* **0-to-1 Product Engineering:** End-to-end ownership of generative web (Canvas/WebGL PWA) and native iOS (SwiftUI/SwiftData) products, from architecture through AI-assisted implementation to live deployment.
+* **AI Orchestration:** Integrating LLMs, Generative Vision (Midjourney/Runway/Stable Diffusion), and Prompt Engineering into cohesive automated creative workflows.
+* **Data & Systems Architecture:** ETL Pipeline Development (Python, SQL), Relational Data Modeling, and Knowledge Graph construction.
+* **Tools & Platforms:** Python (Pandas/NumPy), Terraform, Claude/Codex (AI-assisted development), SwiftUI/SwiftData, Microsoft Power Platform, Midjourney.
 * **Languages:** Native Bilingual (Mandarin Chinese / English).
+
+Currently Learning
+======
+* **Cloud Security Engineering:** Actively building hands-on skills in cloud posture auditing (IAM/S3/RDS misconfigurations), automated governance, and compliance frameworks (NIST, ISO 27001, SOC 2) through **CloudGuard**, a self-directed, in-progress project — not yet a professional practice.
 
 Professional Interests
 ======
-* **Network & Cloud Security:** Deeply interested in zero-trust architectures, cloud infrastructure security hardening, network vulnerability defense, and resilient security engineering.
 * **Indie Hacking & Product Craftsmanship:** Passionate about 0-to-1 independent product development, rapidly building user-centric full-stack digital products, and shipping software from concept to live deployment.
-* **Strategic Intelligence Networks:** Mastering high-frequency scraping and parsing of non-traditional data (geopolitical shifts, social sentiment) to build dynamic webs of systemic risk.
-* **Product Packaging, Aesthetics & User Psychology:** Obsessed with transforming raw concepts into highly magnetic, traffic-generating digital products, embedding uncompromising visual aesthetics into software design, and mastering user psychology to drive viral acquisition and long-term engagement.
-* **Resilient & Sovereign Infrastructure:** Designing edge intelligence and sovereign cloud architectures to navigate global jurisdictions and ensure data compliance in a fragmented digital world.
-* **Digital Heritage & Wisdom Capital:** Developing the economic and technical standards for the preservation of human memory as inheritable digital assets.
+* **Product Packaging, Aesthetics & User Experience:** Obsessed with transforming raw concepts into products with a strong visual identity and intuitive interaction — embedding real design craft into software, from pixel-level polish to the systems that make people want to use it.
+* **Digital Heritage & Memory Preservation:** Exploring how generative AI can preserve personal memory as a lasting digital artifact (Project MUSUBI).
 
 Service and leadership
 ======
-* **Creative Society Advocate:** Exploring the intersection of policy, technology, and media through the **CiP (Contents Innovation Program)** framework.
-* **Multidisciplinary Liaison:** Leading cross-border projects that require a synthesis of technical engineering, economic analysis, and creative design.
+* **Creative Society Advocate:** Exploring the intersection of technology and media through the **CiP (Contents Innovation Program)** framework.
+* **Multidisciplinary Builder:** Leading cross-border projects that require a synthesis of product engineering and creative design.
 
