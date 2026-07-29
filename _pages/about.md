@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am **Yu**, an AI Product Engineer. I take vague, undefined ideas and turn them into fully realized, highly compelling products — designed, built, and shipped by me, end-to-end.
+I bridge product strategy, engineering, and AI to transform ambitious ideas into commercially viable products.
 
 
 The "Linker" Persona
