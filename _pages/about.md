@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I bridge product strategy, engineering, and AI to transform ambitious ideas into commercially viable products.
+I transform ambiguous ideas into AI products with real-world impact. By bridging product strategy, engineering, and design, I take products from concept to launch—and beyond.
 
 
 The "Linker" Persona
