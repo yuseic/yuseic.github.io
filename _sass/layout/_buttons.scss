@@ -21,9 +21,11 @@
   border: 0 !important;
   border-radius: $border-radius;
   cursor: pointer;
+  -webkit-transition: filter 0.15s ease;
+  transition: filter 0.15s ease;
 
   &:hover {
-    background-color: mix(white, #000, 20%);
+    filter: brightness(1.15);
   }
 
   .icon {

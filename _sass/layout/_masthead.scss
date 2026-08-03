@@ -62,8 +62,19 @@
 
   &--lg {
     padding-right: 2em;
-    font-weight: 700;
+    font-family: $monospace;
+    font-size: 0.85em;
+    font-weight: 500;
+    letter-spacing: 0.02em;
   }
+
+}
+
+.masthead__menu-item:not(.masthead__menu-item--lg) > a {
+  font-family: $monospace;
+  font-size: 0.78em;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
 }
 
 .masthead__menu-item.selected a {

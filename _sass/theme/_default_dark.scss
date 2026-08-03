@@ -1,21 +1,26 @@
 /* ==========================================================================
-    DEFAULT THEME - DARK VERSION
+    DEFAULT THEME - DARK VERSION ("Monolith" — minimal dark engineering)
     ========================================================================== */
 
 /* Color codes used for the theme */
-$primary-color              : #0ea1c5;
-$gray                       : #7a8288;
+$primary-color              : #6472ff;
+$gray                       : #86868f;
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 
-$background                 : #000000;
-$background-light           : #1a1a1a;
-$background-lighter         : #333333;
-$text                       : #ffffff;
-$link                       : #0ea1c5;
-$link-dark                  : mix(#000, $link, 25%);
-$link-light                 : mix(#fff, $link, 25%);
+$background                 : #0b0b0e;
+$background-light           : #131317;
+$background-lighter         : #1c1c21;
+$text                       : #f1f1f4;
+$text-muted                 : #86868f;
+$link                       : #6472ff;
+$link-hover                 : #8b95ff;
+$link-visited                : #4b57cc;
+$border                     : #232329;
+$border-strong              : #2c2c33;
+$selection-bg               : #6472ff;
+$selection-text              : #ffffff;
 
 /* Color codes used for the site */
 $danger-color               : #ee5f5b;
@@ -25,7 +30,7 @@ $success-color              : #62c462;
 $warning-color              : #f89406;
 
 /* Other basic settings for the template */
-$border-radius              : 4px;
+$border-radius              : 3px;
 $box-shadow                 : 0 1px 1px rgba(0, 0, 0, 0.125);
 $global-transition          : all 0.2s ease-in-out;
 $masthead-height            : 70px;
@@ -39,18 +44,31 @@ html[data-theme="dark"] {
     --global-base-color                 : #{$primary-color};
     --global-bg-color                   : #{$background};
     --global-footer-bg-color            : #{$background};
-    --global-border-color               : #444;
-    --global-dark-border-color          : #222;
-    --global-code-background-color      : #1a1a1a;
-    --global-code-text-color            : #f3f3f3;
-    --global-fig-caption-color          : #{$light-gray};
+    --global-border-color               : #{$border};
+    --global-dark-border-color          : #{$border-strong};
+    --global-code-background-color      : #{$background-light};
+    --global-code-text-color            : #{$text};
+    --global-fig-caption-color          : #{$text-muted};
     --global-link-color                 : #{$link};
-    --global-link-color-hover           : #{$link-dark};
-    --global-link-color-visited         : #{$link-light};
+    --global-link-color-hover           : #{$link-hover};
+    --global-link-color-visited         : #{$link-visited};
     --global-masthead-link-color        : #{$text};
     --global-masthead-link-color-hover  : #{$primary-color};
     --global-text-color                 : #{$text};
-    --global-text-color-light           : #ccc;
+    --global-text-color-light           : #{$text-muted};
     --global-thead-color                : #{$background-lighter};
+    --global-toc-bg-color               : #{$background-light};
+    --global-selection-bg-color         : #{$selection-bg};
+    --global-selection-text-color       : #{$selection-text};
 }
 
+/* Text selection styling for dark theme */
+html[data-theme="dark"] ::selection {
+    background-color: var(--global-selection-bg-color);
+    color: var(--global-selection-text-color);
+}
+
+html[data-theme="dark"] ::-moz-selection {
+    background-color: var(--global-selection-bg-color);
+    color: var(--global-selection-text-color);
+}
