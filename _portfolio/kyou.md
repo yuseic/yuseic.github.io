@@ -18,10 +18,6 @@ Designed and engineered from scratch (0-to-1) using AI-assisted pair programming
 ### 1. Daily Energy Mosaic Hero (每日能量场主视觉)
 The central visual engine calculates the daily Heavenly Stems and Earthly Branches (e.g., *Ren-Yin* 壬寅) and renders an interactive, 160-column mosaic electric grid field with glowing pixelated GanZhi glyphs on a fixed pitch-black canvas (`#120f1c`).
 
-![KYOU Generative Energy Field Demo](/images/kyou/hero_demo.png)
-
-*Figure 1: Cyber-Electronic neon palette driven by Five Elements (Wood: Emerald Green `#12c76a`, Fire: Vermilion `#ff3b30`, Earth: Golden Amber `#ffb020`, Metal: Cyan `#2fd0e6`, Water: Royal Blue `#2979ff`) with procedural distance fields (`makeBlobField`) and Five Elements generative/overcoming relationships controlling double-color domain boundaries and particle flickering.*
-
 ### 2. Mobile Digital Share Card (移动端艺术分享卡)
 Users can export a high-resolution, seed-based share card containing deterministic daily mosaic artwork, glowing neon GanZhi glyphs, current Shichen coordinates, and non-predictive poetic reflection, integrated with native Web Share API (`drawShareCard`) for frictionless mobile sharing.
 

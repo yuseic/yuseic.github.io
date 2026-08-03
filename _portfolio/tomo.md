@@ -24,10 +24,6 @@ Inspired by classical Chinese mineral pigment notes (*《山海经》"其阳多�
 * ⚔️ **Metal (金):** 古铜 (`#8A6B3A` 庚) · 银白 (`#AB9F86` 辛)
 * 🌊 **Water (水):** 玄青 (`#2F3F5A` 壬) · 石青 (`#486A86` 癸)
 
-![Tomo Mineral Pigment System](/images/tomo/teaser.png)
-
-*Figure 1: The 10 fixed Day Master entry cards (甲乙丙丁戊己庚辛壬癸) rendered with vermillion seals (`#B13B2C`), double ink borders, and mineral pigment bars.*
-
 ### 2. Single-Player "Show, Don't Predict" Philosophy
 * **No Divination or Judgment:** Tomo strictly avoids fortune-telling, compatibility scoring, or unsolicited life advice. Bazi time coordinates serve purely as subjective visual anchors and relationship spectrum collectors.
 * **Privacy-First Boundary:** Zero cloud accounts, zero cloud relationship storage. All personal records, notes, and relationship memories are encrypted and stored strictly on-device using iOS 17+ SwiftData.
