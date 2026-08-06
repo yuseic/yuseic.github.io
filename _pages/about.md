@@ -1,30 +1,31 @@
 ---
 permalink: /
-title: "Cybersecurity — Cloud Security"
+title: "AI Product Engineer · Design Engineer"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am an aspiring cybersecurity specialist with a Data Analyst & AI Product Development background. I bring hands-on experience building data pipelines and shipping full-stack software independently, and I'm now channeling that execution ability into a deliberate, full pivot into cybersecurity — currently exploring cloud security and red team/offensive security in parallel.
+I transform ambiguous ideas into AI products with real-world impact. By bridging product strategy, engineering, and design, I take products from concept to launch—and beyond.
 
-The "Detective" Persona
+
+The "Linker" Persona
 ======
-I look for weak signals hidden inside noisy environments, connect scattered evidence into meaningful narratives, and stay curious until every anomaly has an explanation.
+In a digital landscape often fragmented between engineering and product, I act as the connective layer:
+*   **Design x Engineering:** Building generative, high-craft interfaces myself — from a custom WebGL/Canvas particle engine (*KYOU*) to a native iOS app (*Tomo*) — not just prototyping them.
+*   **Idea x Execution:** Taking something abstract and undefined and shipping it as a real, working product, not a deck.
+*   **Cross-Regional Hub:** Leveraging bilingual fluency (EN/CN) to lead product initiatives across the APAC region.
 
-My strength doesn't stop at investigation. I integrate AI and data into security operations, enabling faster detection, richer context, and smarter decision-making.
-
-Background
+Core Expertise
 ======
-*   **AI Product Builder:** end-to-end product engineering. Shipping real, working web software end-to-end using AI-assisted development. 
-*   **Data Engineer @ Adidas (Logistics Automation, Intern):** built a live Data Pipeline replacing a manual, error-prone Excel workflow — real execution inside an enterprise environment.
+*   **Idea-to-Product Realization:** Taking an abstract, undefined idea and turning it into a fully realized, highly compelling product
+*   **0-to-1 Product Engineering:** End-to-end ownership of generative web (Canvas/WebGL PWA) and native iOS (SwiftUI/SwiftData) products, with AI-assisted pair programming (Claude/Cursor) as the primary build method.
+*   **AI Orchestration & Generative Media:** Integrating LLMs, generative vision (Midjourney, Runway), and prompt engineering into disciplined, repeatable creative pipelines.
 
-Currently Building
+Currently Upskilling
 ======
-*   **Foundations first:** networking, Linux, and scripting fundamentals, followed by parallel light exploration of cloud security and offensive security material — see my learning roadmap for the full plan and current progress.
-*   **CloudGuard:** A hands-on cloud security posture project — a Python (boto3) scanner for auditing AWS IAM/S3/RDS misconfigurations — that I'm building and deploying as a practice ground for real cloud security engineering.
-*   Honest status: no claimable security credential or professional evidence yet. This is early, and I'd rather say that plainly than overstate it.
+*   **Security:** Building hands-on cloud security fundamentals — not yet a professional practice, but where I'm deliberately upskilling.
 
 Education
 ======
@@ -33,4 +34,4 @@ Education
 
 Contact
 ======
-I am open to conversations about entry-level cybersecurity roles (cloud security or red team) — especially anywhere with a genuine mentorship/training path for someone making a deliberate career pivot. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.
+I am open to roles that value real product-building ability first. Reach out via [Email](mailto:siyuchinen@gmail.com) or connect with me on LinkedIn.
