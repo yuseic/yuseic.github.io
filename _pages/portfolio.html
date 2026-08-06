@@ -9,7 +9,9 @@ author_profile: true
 
 
 {% assign sorted_portfolio = site.portfolio | sort: 'order' %}
+<div class="portfolio-listing">
 {% for post in sorted_portfolio %}
   {% include archive-single.html %}
 {% endfor %}
+</div>
 

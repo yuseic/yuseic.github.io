@@ -100,6 +100,15 @@
   }
 }
 
+/* Portfolio project titles: plain text color instead of the site accent,
+   default and hover, without touching --global-base-color elsewhere. */
+.portfolio-listing {
+  .archive__item-title a,
+  .archive__item:hover .archive__item-title a {
+    color: var(--global-text-color);
+  }
+}
+
 .page__content .archive__item {
   padding: 0;
   border: 0;
